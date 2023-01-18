@@ -2,6 +2,11 @@
 
 
 <div align=center>
+
+### 레벨업 하자. <br>즐겁게 개발하자. <br>내가 선택한 길이니까
+
+<br><br>
+
 <h2>🙌 Introduction</h2>
 안녕하세요! <br>
 Back-End를 공부하고 있는 개발자 신예린 입니다! 
