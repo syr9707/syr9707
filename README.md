@@ -3,13 +3,14 @@
 
 <div align=center>
 
-### 레벨업 하자. <br>즐겁게 개발하자. <br>내가 선택한 길이니까
+## 진인사대천명 <br>盡人事待天命
 
 <br>
 
 <h2>🙌 Introduction</h2>
 안녕하세요! <br>
-Back-End를 공부하고 있는 개발자 신예린 입니다! 
+Back-End를 공부하고 있는 개발자 신예린 입니다! <br>
+함께하는 것을 좋아합니다:)
 <br><br>
 <h2>🔨 Tech Stack</h2>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
